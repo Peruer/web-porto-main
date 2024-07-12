@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/frieren-hero-party-visual-e1693343668398.webp);
+  height: 900px;
+}
+
+#Projects {
+  background-color: #a2d9ff;
+}
+
+section {
+  padding-top: 5rem;
+}
